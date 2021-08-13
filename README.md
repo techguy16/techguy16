@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **App Fortune**
 
-- 📝 I regularly write articles on [techguy16.github.com](techguy16.github.com)
-
 - 💬 Ask me about **Python, HTML, CSS, or JS,**
 
 
