@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **the C programming language**
 
-- 👯 I’m looking to collaborate on **App Fortune**
+- 👯 I’m looking to collaborate on **App Fortune** and **TechOS** with @binarypixells
 
 - 💬 Ask me about **Python, HTML, CSS, or JS,**
