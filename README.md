@@ -19,3 +19,7 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=techguy16&show_icons=true&theme=tokyonight" />
 </a></p>
+
+# Donate!
+Feeling generous? Please donate to me using the crypto addresses below:
+* BTC: (bc1qjc8hmym6s5g32sqw43qgw7uqp0afwyvqlmlfrp)[bitcoin:bc1qjc8hmym6s5g32sqw43qgw7uqp0afwyvqlmlfrp]
