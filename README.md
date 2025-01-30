@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm TechGuy16</h1>
-<h3 align="center">I love all things coding and computing</h3>
+<h1 align="center">Hi 👋, I'm techguy16</h1>
+<h3 align="center">I like Linux, Windows XP and programming!</h3>
 
-- 🔭 I’m currently working on **SimplifyOS**
+- 🔭 I’m currently working on either **LinStore** or some other random project.
 
-- 🔭 I also think I'm currently working on **Winnux** and **TechOS**
+- 🌱 I’m currently learning **how to manage crypto**
 
-- 🌱 I’m currently learning **better Python skills**
+- 👯 I’m looking to collaborate on any project I have created with anyone who's willing to help
 
-- 👯 I’m looking to collaborate on **keygenlib** with anyone who's willing to help
-
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, or Linux,**
+- 💬 Ask me about **Python, HTML, CSS, JavaScript, or Linux**
 
 
 <h3 align="left">Languages and Tools:</h3>
