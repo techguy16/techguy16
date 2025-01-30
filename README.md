@@ -22,4 +22,4 @@
 
 # Donate!
 Feeling generous? Please donate to me using the crypto addresses below:
-* BTC: [bc1qjc8hmym6s5g32sqw43qgw7uqp0afwyvqlmlfrp](bitcoin:bc1qjc8hmym6s5g32sqw43qgw7uqp0afwyvqlmlfrp)
+* **BTC:** bc1qjc8hmym6s5g32sqw43qgw7uqp0afwyvqlmlfrp
